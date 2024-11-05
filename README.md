@@ -12,7 +12,7 @@ Este script permite encriptar y desencriptar mensajes utilizando el comando 'ope
 
 - **openssl**: Este script utiliza 'openssl' para la encriptación y desencriptación. Puedes instalarlo con:
 
-  bash
+  ```bash
   sudo apt update
   sudo apt install openssl
 
